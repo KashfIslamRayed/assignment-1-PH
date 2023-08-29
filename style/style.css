@@ -1,0 +1,277 @@
+/* body */
+
+body {
+    font-family: Lato;
+    margin: 0;
+}
+
+/* flower-top */
+
+.flower-top {
+    display: flex;
+    text-align: left;
+    background-color: rgb(252, 231, 229);
+}
+
+.flower-top-inside {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.flower-top-h1 {
+    font-size: 45px;
+}
+
+.flower-top-p {
+    font-size: 15px;
+}
+
+.flower-top-btn {
+    color: white;
+    background-color: rgba(229, 84, 115, 1);
+    border: 0px;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+
+.flower-top-img {
+    height: fit-content;
+    width: 400px;
+    margin-right: 100px;
+}
+
+/* flower-second */
+.flower-sec-top {
+    margin-top: 100px;
+}
+
+.flower-sec-inside {
+    text-align: center;
+}
+
+.flower-sec-h3 {
+    font-size: 25px;
+}
+
+.flower-sec-p {
+    font-size: 13px;
+}
+
+.flower-sec-imgs {
+    display: flex;
+    margin: 50px 135px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.flower-sec-img1 {
+    height: fit-content;
+    width: 200px;
+    background-color: rgba(167, 33, 98, 0.15);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 35px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+
+.flower-sec-img2 {
+    height: fit-content;
+    width: 200px;
+    background-color: rgba(5, 151, 160, 0.15);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 110px;
+    margin: 0px 15px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+
+.flower-sec-img3 {
+    height: fit-content;
+    width: 200px;
+    background-color: rgba(71, 125, 17, 0.15);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+
+/* flower third */
+
+.flower-thrd-top {
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+.flower-thrd-inside1 {
+    margin-top: 100px;
+    margin-left: 135px;
+}
+
+.flower-thrd-h3 {
+    font-size: 30px;
+}
+
+.flower-thrd-h3-s {
+    color: rgba(229, 84, 115, 1);
+}
+
+.flower-thrd-btn {
+    color: white;
+    background-color: rgba(229, 84, 115, 1);
+    border: 0px;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+
+.flower-thrd-inside2 {
+    margin-right: 135px;
+}
+
+.flower-thrd-img {
+    width: 250px;
+}
+
+/* flower forth  */
+
+.flower-frth-top {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.flower-frth-h3 {
+    font-size: 25px;
+}
+
+.flower-frth-p {
+    font-size: 13px;
+}
+
+.flower-frth-imgs {
+    display: flex;
+    gap: 15px;
+    margin: 40px 135px;
+}
+
+.flower-frth-img1 {
+    height: fit-content;
+    width: 175px;
+}
+
+.flower-frth-img2 {
+    height: fit-content;
+    width: 175px;
+}
+
+.flower-frth-img3 {
+    height: fit-content;
+    width: 175px;
+}
+
+.flower-frth-img4 {
+    height: fit-content;
+    width: 175px;
+}
+
+/* my extr */
+.my-extr {
+    background-image: url(/Flower-Asset/rose-flower-and-botanical-leaf-digital-painted-png.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 80px 200px;
+}
+
+.my-extr-h3 {
+    margin-top: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/* fifth step  */
+
+.flower-ffth-top {
+    text-align: center;
+    margin-left: 135px;
+    margin-right: 135px;
+    background-image: url(/Flower-Asset/Rectangle\ 9.png);
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+
+.flower-ffth-h3 {
+    font-size: 25px;
+}
+
+.flower-ffth-p {
+    font-size: 13px;
+}
+
+.flower-ffth-eml {
+    border: 0px;
+    border-radius: 5px;
+    padding: 15px;
+    padding-left: 5px;
+    padding-right: 200px;
+}
+
+.flower-ffth-btn {
+    margin-left: 10px;
+    color: white;
+    background-color: rgba(229, 84, 115, 1);
+    border: 0px;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+
+/* footer  */
+
+.footer {
+    background-color: rgba(17, 16, 16, 1);
+
+}
+
+.footer-h3-main {
+    text-align: center;
+    padding-top: 128px;
+}
+
+.footer-h3-1 {
+    text-align: center;
+    font-size: 30px;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-h3-2 {
+    text-align: center;
+    font-size: 30px;
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-p1 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-p2 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 128px
+}
